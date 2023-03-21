@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/PopularFragment"
+        android:icon="@drawable/baseline_star_border_24"
+        android:iconTint="#2196F3"
+        android:title="Popular" />
+
+    <item
+        android:id="@+id/Top_RatedFragment"
+        android:title="Nuevo"
+        android:icon="@drawable/baseline_camera_indoor_24"/>
+    <item
+        android:id="@+id/upcomingFragment"
+        android:title="@string/upcoming"
+        android:icon="@drawable/baseline_cast_24"/>
+
+</menu>
