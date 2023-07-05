@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		15037DF52A539A73003D5292 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15037DF42A539A73003D5292 /* Card.swift */; };
 		15037DF82A53A820003D5292 /* Card1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15037DF72A53A820003D5292 /* Card1.swift */; };
+		1567F3912A560429004FA26F /* CustomeCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1567F3902A560429004FA26F /* CustomeCorner.swift */; };
 		15A7968B2A4E5CF3000FB4B3 /* TransferenciaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7968A2A4E5CF3000FB4B3 /* TransferenciaApp.swift */; };
 		15A7968D2A4E5CF3000FB4B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15A7968C2A4E5CF3000FB4B3 /* ContentView.swift */; };
 		15A7968F2A4E5CF4000FB4B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15A7968E2A4E5CF4000FB4B3 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		15037DF42A539A73003D5292 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		15037DF72A53A820003D5292 /* Card1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card1.swift; sourceTree = "<group>"; };
+		1567F3902A560429004FA26F /* CustomeCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeCorner.swift; sourceTree = "<group>"; };
 		15A796872A4E5CF3000FB4B3 /* Transferencia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Transferencia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15A7968A2A4E5CF3000FB4B3 /* TransferenciaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransferenciaApp.swift; sourceTree = "<group>"; };
 		15A7968C2A4E5CF3000FB4B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 		15A796892A4E5CF3000FB4B3 /* Transferencia */ = {
 			isa = PBXGroup;
 			children = (
+				1567F3902A560429004FA26F /* CustomeCorner.swift */,
 				15A7968A2A4E5CF3000FB4B3 /* TransferenciaApp.swift */,
 				15A7968C2A4E5CF3000FB4B3 /* ContentView.swift */,
 				15037DF42A539A73003D5292 /* Card.swift */,
@@ -274,6 +277,7 @@
 				15A7968D2A4E5CF3000FB4B3 /* ContentView.swift in Sources */,
 				15037DF82A53A820003D5292 /* Card1.swift in Sources */,
 				15037DF52A539A73003D5292 /* Card.swift in Sources */,
+				1567F3912A560429004FA26F /* CustomeCorner.swift in Sources */,
 				15A7968B2A4E5CF3000FB4B3 /* TransferenciaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
